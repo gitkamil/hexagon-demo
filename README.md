@@ -1,6 +1,6 @@
 # hexagon-demo
 ## Project structure: 
-
+```
 src/main/java/com/example/hexagonal
 ├── application (business logic)
 │   ├── port
@@ -19,3 +19,4 @@ src/main/java/com/example/hexagonal
 │   ├── rest
 │   │   └── OrderController.java
 └── HexagonalApplication.java
+```
