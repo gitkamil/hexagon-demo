@@ -20,3 +20,6 @@ src/main/java/com/example/hexagonal
 │   │   └── OrderController.java
 └── HexagonalApplication.java
 ```
+
+## Api usage example:
+curl -X POST "http://localhost:8080/orders?productName=Book&quantity=1"
